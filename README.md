@@ -1,0 +1,2 @@
+# Netology_Kubernetes_update_app
+Обновление приложений
